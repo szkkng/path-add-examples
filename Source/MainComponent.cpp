@@ -21,7 +21,7 @@ void MainComponent::paint (juce::Graphics& g)
     
     juce::Path path;
     
-    // Comment out the member function you want to check, and build.
+    // Uncomment the line of code you want to check.
 
     //==============================================================================
     /* addRectangle() */
